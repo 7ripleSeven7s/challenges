@@ -1,0 +1,10 @@
+# Author: Oliver Smith
+# Date Created: 2024-03-26
+
+# Ignore log files
+"*.log"
+
+
+# Ignore test folder, not unit testing
+"/test"
+"/test/*"
