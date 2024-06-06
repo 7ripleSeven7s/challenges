@@ -31,3 +31,7 @@ numbers.reduce((sum, value) => {
 }, 0);
 
 sum;
+
+const z = [5,10,15,20,25,30]; /*? $.pop() */
+z
+
