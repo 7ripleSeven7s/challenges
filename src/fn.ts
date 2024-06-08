@@ -1,5 +1,6 @@
 // functions
-const util = require('util');
+//const util = require('util');
+import { format, isDeepStrictEqual,types,parseEnv, formatWithOptions } from "node:util";
 
 function addNumbers(a: number, b: number) {
   return a + b;
@@ -12,4 +13,4 @@ export default addNumbers;
 
 
 //export function isDeepStrictEqual(val1: unknown, val2: unknown): boolean;
-util
+console.log(isDeepStrictEqual(1,2));

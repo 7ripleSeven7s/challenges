@@ -4,7 +4,7 @@
   "description": "A collection of leetcode and hackerrank challenges.",
   "main": "index.js",
   "directories": {
-    "example": "examples"
+    "lib": "src/*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

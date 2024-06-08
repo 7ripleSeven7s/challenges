@@ -8,3 +8,7 @@
 # Ignore test folder, not unit testing
 "/test"
 "/test/*"
+
+# Ignore temp files
+"/tmp"
+"/tmp/*"
