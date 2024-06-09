@@ -1,0 +1,10 @@
+{
+  "version":3,
+  "file":"fn-test.js",
+  "sourceRoot":"",
+  "sources":[
+    "../../src/fn-test.ts"
+  ],
+  "names":[],
+  "mappings":";;;;;AAAA,gBAAgB;AAChB,8CAA8B;AAE9B,OAAO,CAAC,GAAG,CAAC,IAAA,YAAU,EAAC,CAAC,EAAC,CAAC,CAAC,CAAC,CAAC"
+}
